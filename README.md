@@ -17,7 +17,7 @@ As a software engineer, I enjoy create things and solve problems, feel free to l
 - 🚀 I’m currently learning Flutter and JavaScript;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:johnnatan.tomaz1@gmail.com;
-- 📝 [Resume](URL).
+- 📝 [Resume](https://drive.google.com/file/d/1-0JI-jcCeraf1fS4jF0iU7b7KDgTsteZ/view?usp=sharing).
 
 </br>
 
