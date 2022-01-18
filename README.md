@@ -10,7 +10,7 @@ I am a software engineer and gamer. I love programming, play games, speaking and
 
 As a software engineer, I enjoy create things and solve problems, feel free to look over my github and see what I already made.
 
-<img align="right" alt="GIF" src="https://github.com/JohnnatanTomaz/Johnnatan-Tomaz/blob/main/DevWorking.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/JohnnatanTomaz/Johnnatan-Tomaz/blob/main/DevWorking.gif?raw=true" width="388" height="298" />
   
 
 **Talking about Personal Stuffs:**
