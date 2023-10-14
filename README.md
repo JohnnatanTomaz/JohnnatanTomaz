@@ -13,7 +13,7 @@ As a software engineer, I enjoy create things and solve problems, feel free to l
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on a marketplace project;
 - 🚀 I’m currently learning Java and Flutter;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:johnnatan.tomaz1@gmail.com;
